@@ -1,10 +1,9 @@
 ---
-
-
 # GreenGo 🌱
 
-**GreenGo** is a community-driven web platform that combines AI, satellite imagery, and citizen science to map, track, and enhance local biodiversity. Users can visualize their neighborhood's flora and fauna, contribute observations, and engage in sustainable community projects.  
-
+**GreenGo** is a community-driven web platform that combines AI, satellite imagery, and citizen science to map, 
+track, and enhance local biodiversity. Users can visualize their neighborhood's flora and fauna, contribute 
+observations, and engage in sustainable community projects.  
 ---
 
 ## 🌟 Features
