@@ -1,4 +1,3 @@
-
 # GreenGo 🌱
 
 **GreenGo** is a community-driven web platform that combines AI, satellite imagery, and citizen science to map, 
